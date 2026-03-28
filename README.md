@@ -75,7 +75,7 @@ As a personal takeaway, I learned the importance of verifying sources before cli
 ## Project Report
 
 The complete report is available in:
-`report/Project_Report.pdf`
+`Project_Report.pdf`
 
 It includes detailed explanations of all tasks, reflections, and conclusions.
 
