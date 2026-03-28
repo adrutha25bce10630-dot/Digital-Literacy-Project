@@ -46,6 +46,7 @@ For collaboration, I created a Digital Literacy Awareness Quiz using Google Form
 
 This task helped me understand how to use online platforms for both skill development and data collection, which will be useful for academic projects and research.
 
+**LINK** https://docs.google.com/forms/d/e/1FAIpQLSf3mtbmRxmxhI2IZQtTsgmNgUHndWkzn5QNAoqJVHPpFEl-_Q/viewform?usp=publish-editor
 ### Task 4: Professional Email and Etiquette
 
 This task focused on understanding proper digital communication. Professional email drafts were created, following correct structure, tone, and formatting.
